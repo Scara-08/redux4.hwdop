@@ -1,0 +1,10 @@
+.minos {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: solid 4px rgb(68, 5, 5);
+    margin: 10px;
+}
+
+.Link {
+    color: rgb(39, 38, 119);
+}
